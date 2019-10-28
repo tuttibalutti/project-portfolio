@@ -76,17 +76,14 @@ Make sure you've commited and pushed a version of your project before starting w
 
 **_Design_**
 
-Change the colors of the page based on the weather. If the weather is warm – use warm colors. If the weather is colder, use cold colors. If you really want to push you CSS muscles you can even make a [background gradient.](https://www.w3schools.com/css/css3_gradients.asp) 
+Implement a hamburger menu on for the mobile site, linking to your different projects. 
 
 **_Deep-dive_**
 
-***Use your location***
+Optimise your website for sharing on social media using [og:tags.](https://css-tricks.com/essential-meta-tags-social-media/)
 
-Use the [Geolocation API](https://www.w3schools.com/html/html5_geolocation.asp) that is built in to your browser to fetch the city that you are located in atm and show the weather for your location. 
+Give your portfolio a custom domain and connect to your deployed site. [Read more.](https://docs.netlify.com/domains-https/custom-domains/) 
 
-***Add multiple cities***
-
-Give the user the option to choose between a couple of your favourite cities. 
 
 #### 🚨 Don't forget to add, commit and push the changes to GitHub when you're done. 🏁
 
