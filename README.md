@@ -1,4 +1,4 @@
-# Sprint 3 – Your Very Own Portfolio
+# Your Very Own Portfolio 🔥
 
 It's about time you show the world the wonders that you're now capable of building – it's time to build your portfolio. The portfolio should feature projects you have built so far and some information about yourself and your background, and, if you'd like, your contact details.
 
