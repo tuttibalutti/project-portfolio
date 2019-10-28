@@ -54,7 +54,8 @@ The next step is to make sure your webpage works well for people with disabiliti
 - You should use flexbox for layout (you can use CSS grid if you're comfortable with that). 
 - The page should be fully responsive. (Mobile, tablet and desktop)
 – The page should look and function the same on Chrome, Firefox, and Edge. 
-– The page should work well for people that uses screen readers and keyboard navigation. 
+– The page should work well for people that uses screen readers and keyboard navigation.
+– The Html code should validate in an validation tool. 
 - Code follows [Technigo’s code guidelines](https://www.notion.so/technigo/Guidelines-for-how-to-write-good-code-69ffb59eac4e4358a7c5752efb873c4e).
 - Contribute by helping others with this project on Stack Overflow.
 - If selected; demo your solution for your team.
