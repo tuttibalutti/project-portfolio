@@ -4,7 +4,7 @@ It's about time you show the world the wonders that you're now capable of buildi
 
 The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to get started with accessability and build websites for everyone – something every frontender should know. Don't save til last day to do the testing – it's very much the task of this project and will take some time. 
 
-![Portfolio design](https://imgur.com/StoB2JK)
+![Imgur](https://i.imgur.com/StoB2JK.jpg)
 
 The portfolio should contain: 
 * A picture of you
