@@ -2,17 +2,21 @@
 
 It's about time you show the world the wonders that you're now capable of building – it's time to build your portfolio. The portfolio should feature projects you have built so far and some information about yourself and your background, and - if you'd like - your contact details.
 
-The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to introduce a few testing methods and some things that every frontend developer should know. 
+The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to introduce a few testing methods and some other things that every frontend developer should know. 
 
 The portfolio should contain: 
-* Landing page - the page which lists all your projects and could briefly introduce who you are.
-* Project pages - a page for each project which will be used to describe that project (daily assignment or group project) with images, a description, a list of technologies used and a link to the project live.
+* A picture of you
+* A presentation of the tech skills that you have. 
+* A presentation of your projects linking to your Github. 
 
-*If you are taking the full program and plan to let us match you with companies at the end of the program, we want you to use the design which is provided in the assets folder.*
+### Do you want our help in getting a job? 
+If you are taking the full program and plan to let us match you with companies at the end of the program, we want you to use our template for the portfolio. Basically you need to implement the given design to be able to get our help. If you work as a designer and really hate our design you could pitch to us why you would make a better job. But otherwise this design comes from experience of what exactly recruiters look at. 
 
-For this weeks project, focus on getting the tech side working well - focus on HTML & CSS. For the matching process at the end of the bootcamp, the content becomes much more important, so this is something that we can add more love to later in the course. Since this is a page that we will use to profile you towards companies, your portfolio will need constant updates with new projects from now on.
+[Access portfolio guidelines and designs.](https://www.notion.so/technigo/Portfolio-Guidelines-f265c218c7e94fc88fd4b8e468d6fc14) 
 
-If you don't want our help getting interviews, feel free to build the portfolio anyway you like. Here's some examples. 
+For this weeks project, focus on getting the tech side working well - focus on HTML & CSS and nailing the accessibility and testing. For the matching process at the end of the bootcamp, the content becomes much more important, so this is something that we can add more love to later in the course. Since this is a page that we will use to profile you towards companies, your portfolio will need constant updates with new projects from now on.
+
+**If you don't want our help getting interviews**, feel free to build the portfolio anyway you like. Here's some examples. 
 
 * https://york-demo.squarespace.com/
 * https://bert.house/en/
@@ -52,7 +56,7 @@ The next step is to make sure your webpage works well for people with disabiliti
 
 - The page should be built with HTML and CSS (JS if needed)
 - You should use flexbox for layout (you can use CSS grid if you're comfortable with that). 
-- The page should be fully responsive. (Mobile, tablet and desktop)
+- The page should be fully responsive. (mobile, tablet and desktop)
 – The page should look and function the same on Chrome, Firefox, and Edge. 
 – The page should work well for people that uses screen readers and keyboard navigation.
 – The Html code should validate in an validation tool. 
@@ -73,12 +77,6 @@ Ask for help and share your knowledge about this project with the 'project-portf
 ## Stretch Goals 🏃‍♂
 
 Make sure you've commited and pushed a version of your project before starting with the stretch goals.
-
-**_Design_**
-
-Implement a hamburger menu on for the mobile site, linking to your different projects. 
-
-**_Deep-dive_**
 
 Optimise your website for sharing on social media using [og:tags.](https://css-tricks.com/essential-meta-tags-social-media/)
 
