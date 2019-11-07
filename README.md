@@ -2,7 +2,7 @@
 
 It's about time you show the world the wonders that you're now capable of building – it's time to build your portfolio. The portfolio should feature projects you have built so far and some information about yourself and your background, and - if you'd like - your contact details.
 
-The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to introduce a few testing methods and some other things that every frontend developer should know. 
+The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to get started with accessability and build websites for everyone – something every frontender should know. Don't save til last day to do the testing – it's very much the task of this project and will take some time. 
 
 The portfolio should contain: 
 * A picture of you
