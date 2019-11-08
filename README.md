@@ -2,13 +2,14 @@
 
 It's about time you show the world the wonders that you're now capable of building – it's time to build your portfolio. The portfolio should feature projects you have built so far and some information about yourself and your background, and - if you'd like - your contact details.
 
-The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to get started with accessability and build websites for everyone – something every frontender should know. Don't save til last day to do the testing – it's very much the task of this project and will take some time. 
+The portfolio will be a great test of your HTML and CSS skills but we will also take the opporitunity to get started with accessibility and build websites for everyone – something every frontender should know. Don't save until last day to do the testing – it's very much the task of this project and will take some time. 
 
 ![Imgur](https://i.imgur.com/StoB2JK.jpg)
 
 The portfolio should contain: 
-* A picture of you
+* A picture of you.
 * A presentation of the tech skills that you have. 
+* A presentation of some thoughts that you have around code. 
 * A presentation of your projects linking to your Github. 
 
 ### Do you want our help in getting a job? 
@@ -21,10 +22,8 @@ For this weeks project, focus on getting the tech side working well - focus on H
 **If you don't want our help getting interviews**, feel free to build the portfolio anyway you like. Here's some examples. 
 
 * https://york-demo.squarespace.com/
-* https://bert.house/en/
 * http://www.thebeastisback.com/
 * http://bjoernmeier.com/##
-* http://strangelove.me/
 
 ---
 
@@ -39,7 +38,7 @@ Because this is your portfolio, you will own the repository! On GitHub, create a
 A big part of this project is to test your page so that it works for all the most used browsers and works well for people with dissabilities. 
 
 ### 1. Cross-browser testing
-You should make sure that your page is looking and functing like you would want in the following web browsers:
+You should make sure that your page is looking and function like you would want in the following web browsers:
 
 * Google Chrome
 * Firefox
@@ -51,8 +50,9 @@ Follow the [Workflows for cross browser testing](https://developer.mozilla.org/e
 
 ### 2. Accessiability testing
 
-The next step is to make sure your webpage works well for people with disabilities. You should follow each step on the [Accessibility testing checklist](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility) at the bottom of the page and make adjustments for those error that you find. Feel free to discuss in Slack what you find and how to solve some issues. 
+The next step is to make sure your webpage works well for people with disabilities. You should follow each step on the [Accessibility testing checklist](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility) at the bottom of the page and make adjustments for those errors that you find. Feel free to discuss in Slack what you find and how to solve some issues. 
 
+If you publish your website, you can use the built in screen reader on your phone for the screen reader test. Google to see how to turn it on for your phone. 
 
 ## Requirements 🧪
 
@@ -61,7 +61,7 @@ The next step is to make sure your webpage works well for people with disabiliti
 - The page should be fully responsive. (mobile, tablet and desktop)
 – The page should look and function the same on Chrome, Firefox, and Edge. 
 – The page should work well for people that uses screen readers and keyboard navigation.
-– The Html code should validate in an validation tool. 
+– The HTML code should validate in an validation tool. 
 - Code follows [Technigo’s code guidelines](https://www.notion.so/technigo/Guidelines-for-how-to-write-good-code-69ffb59eac4e4358a7c5752efb873c4e).
 - Contribute by helping others with this project on Stack Overflow.
 - If selected; demo your solution for your team.
